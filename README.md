@@ -1,4 +1,4 @@
-# Cordova/Datastores task tracking example
+# Cordova/datastores task example
 
 This is a modified version of the task tracking example that ships with the [Dropbox Datastore JS SDK](https://www.dropbox.com/developers/datastore/sdks/js). This version has been modified to run in the context of a Cordova app.
 
