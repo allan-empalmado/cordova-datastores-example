@@ -5,7 +5,7 @@ This is a modified version of the task tracking example that ships with the [Dro
 Aside from UI changes to match the phone form factor, the two main modification were:
 
 * Use the Cordova auth driver with `client.authDriver(new Dropbox.AuthDriver.Cordova());`
-* Use the `deviceready` event instead of the standard document `ready` event with `document.addEventListener("deviceread", function () { ... }, false);` instead of `$(function () { ... })`.
+* Use the `deviceready` event instead of the standard document `ready` event with `document.addEventListener("deviceready", function () { ... }, false);` instead of `$(function () { ... })`.
 
 ## Run instructions
 
